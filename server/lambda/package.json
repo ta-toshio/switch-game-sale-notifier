@@ -1,0 +1,34 @@
+{
+  "name": "SwitchGameSaleLambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf dist && rimraf dist.zip",
+    "ts": " tsc -p tsconfig.json",
+    "cp": "cp -f ./package.json ./dist && cp -r ./src/config ./dist/config",
+    "install": "npm --prefix ./dist install --production ./dist",
+    "zip": "cd dist/ && bestzip ../dist.zip *",
+    "build": "npm run clean && npm run ts && npm run cp && npm run install && npm run zip"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "aws-sdk": "^2.441.0",
+    "bestzip": "^2.1.2",
+    "rimraf": "^2.6.3",
+    "ts-loader": "^5.4.3",
+    "ts-node": "^8.1.0",
+    "tsconfig-paths": "^3.8.0",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "expo-server-sdk": "^3.4.0",
+    "firebase-admin": "^8.8.0",
+    "moment": "^2.24.0",
+    "n-gram": "^1.1.1",
+    "uuid": "^3.3.3"
+  }
+}

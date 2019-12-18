@@ -1,0 +1,7 @@
+# Compile
+dist/**/*
+node_modules/**/*
+dist.zip
+
+# Application
+src/config/firebaseConfig.json

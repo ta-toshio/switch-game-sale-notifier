@@ -1,0 +1,36 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    match /games/{gId} {
+      allow read;
+      
+      match /users/{uId} {
+      	allow delete: if resource.data.id == uId;
+        allow write: if request.resource.data.id == uId;
+      }
+    }
+
+    match /gameSales/{document=**} {
+      allow read;
+    }
+
+    match /notifications/{uId} {
+    	allow create;
+      allow update: if request.resource.data.uid == resource.data.uid;
+      allow get: if uId == resource.data.uid;
+    }
+    
+    match /users/{uId} {
+    	allow create;
+      allow update: if request.resource.data.id == resource.data.id;
+      allow get: if uId == resource.data.id;
+      
+      match /bookmarks/{gId} {
+      	allow read;
+        allow delete: if resource.data.userId == uId;
+        allow write: if request.resource.data.userId == uId;
+      }
+    }
+  }
+}

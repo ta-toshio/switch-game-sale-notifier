@@ -1,0 +1,1138 @@
+{
+    "query": {
+        "q": null,
+        "limit": 24,
+        "page": 69,
+        "sort": "sodate desc,score",
+        "qf": null,
+        "hl": 0,
+        "mm": null,
+        "fq": "ssitu_s:onsale OR ssitu_s:preorder",
+        "facet": true,
+        "facet_limit": null,
+        "stats": false,
+        "suggest_item_test": null,
+        "el": true,
+        "d": 10,
+        "sf": null,
+        "pt": null,
+        "sbd": null,
+        "gf": null,
+        "glimit": 1,
+        "gpage": 1,
+        "gsort": null,
+        "gt": true,
+        "df": null,
+        "ff": null,
+        "spt": null,
+        "opt_sshow": [
+            "1"
+        ],
+        "opt_osale": [
+            "1"
+        ],
+        "opt_hard": [
+            "1_HAC"
+        ],
+        "opt_pdate": [
+            "~2019-11-13 15:41:55"
+        ],
+        "opt_edate": [
+            "2019-11-13 15:41:56~"
+        ]
+    },
+    "result": {
+        "total": 1639,
+        "items": [
+            {
+                "id": "70010000000061",
+                "title": "アケアカNEOGEO ザ・キング・オブ・ファイターズ '98",
+                "text": "『ザ・キング・オブ・ファイターズ '98』は1998年にSNKから発売された格闘ゲームです。\n前作の「'97」で「オロチ編」が完結したこともあり、シリーズ集大成として登場しました。\n各種調整が行われている点もファンには高い評価を受け、よりバランスのとれた戦いが楽しめるようになっています。",
+                "url": null,
+                "titlek": "あけあかねおじお ざ きんぐ おぶ ふぁいたーず98きゅうじゅうはち",
+                "nsuid": "70010000000061",
+                "pdate": "2017-03-02 20:00:00",
+                "icode": "AB2MA",
+                "hard": "1_HAC",
+                "sform": "HAC_DL",
+                "pprice": null,
+                "dprice": 838,
+                "sdate": "2017.3.3",
+                "sodate": "2017B03A03",
+                "ssitu": "onsale",
+                "maker": "ハムスター",
+                "iurl": "3f4ef87e0b73e909942299b7e1baf79a1a1634b976efe5265b48772f0f16cd68",
+                "genre": [
+                    "アーケード",
+                    "格闘"
+                ],
+                "cero": [
+                    "2"
+                ],
+                "amiibo": "0",
+                "yomi": null,
+                "sicon": null,
+                "n3ds": [
+                    "0"
+                ],
+                "sprice": null,
+                "ssdate": null,
+                "sedate": null,
+                "cnsuid": null,
+                "cont": [
+                    "SWITCH_PRO_CONTROLLER"
+                ],
+                "pmode": [
+                    "TV_MODE",
+                    "TABLETOP_MODE",
+                    "HANDHELD_MODE"
+                ],
+                "player": [
+                    "1~2"
+                ],
+                "lang": [
+                    "ja",
+                    "en",
+                    "fr",
+                    "de",
+                    "it",
+                    "es",
+                    "es_US",
+                    "fr_US",
+                    "en_US"
+                ],
+                "price": 838,
+                "tr": "0",
+                "series": null,
+                "sale_flg": "0",
+                "current_price": 838,
+                "nplayer": null,
+                "lplayer": null,
+                "apps": [
+                    "0"
+                ],
+                "nso": [
+                    "0"
+                ],
+                "drate": [
+                    "0"
+                ],
+                "dsdate": "2017-03-03 00:00:00",
+                "memo": null,
+                "sform_n": "ダウンロードソフト",
+                "trisdate": null,
+                "tristat": null,
+                "sslurl": [
+                    "d0e2a41b8babdf2698452c5ec8cdfc150aace7c5e878a200bdb35adfe22bb36e",
+                    "4116044861c38710488bb4d5532b24ca77da6c57b3b213cfe59894d37b3383f5",
+                    "baa86dda66c14d26a4f8d04be99ca57cab0dc54e67ca909ee788e67f32290956",
+                    "c45521d8a5080a491658003a8b40221f354ce4f4c3a76f2144e914bff04dcd44",
+                    "4caf7e3bf73752819a97896c00ff682a85bbabfdbf92019fbe851def200159ea",
+                    "4e33c598c50b62461768af5520ef352e9e9bb78f9b7c39a44c36eaa3b87dbd59"
+                ],
+                "mvtype": null,
+                "mvname": null,
+                "mvurl": null,
+                "mvsdates": null,
+                "mvedates": null,
+                "siurl": null,
+                "dcolors": null,
+                "sctg": "dl_soft",
+                "score": 68.924545
+            },
+            {
+                "id": "70010000000029",
+                "title": "ブラスターマスター ゼロ",
+                "text": "『ブラスターマスター ゼロ』は、ファミコン全盛期の2Dゲームを意識した8-Bitスタイルのサイドビュー＋トップビュー混成型の探索アクションゲームです。\n\n1988年にサンソフト（サン電子株式会社のブランド）から発売されたファミリーコンピュータ用ソフト『超惑星戦記メタファイト』をベースに、新たなエリアやボスの追加、サブウェポンの追加、アクション性の改善、シナリオ、探索要素の拡充などをしています。\n\n近未来の地球。主人公「ジェイソン・フラドニック」は、万能戦闘車両「ソフィア-Ⅲ」に乗り、地底世界への冒険へと旅立ちます。\nサイドビューマップでは、ソフィア-Ⅲを操作して探索し、エリア内のどこかにいるボスや、ボスがいるダンジョンの入り口を探しましょう。\nダンジョンの入り口を見つけたら、ソフィア-Ⅲから降りてダンジョン内に入り、トップビューマップを攻略します。\nボスや中ボスとの戦いに勝利し、攻略に役立つさまざまなアイテムやサブウェポンを手に入れて、ソフィア-Ⅲやジェイソンの武装を強化し、新たな能力で次のエリアを目指しましょう。\n\n冒険と激闘の果てに、ジェイソンを待ち受ける出会いと試練とは……？ ",
+                "url": null,
+                "titlek": "ぶらすたーますたー ぜろ",
+                "nsuid": "70010000000029",
+                "pdate": "2017-03-02 20:00:00",
+                "icode": "ABETA",
+                "hard": "1_HAC",
+                "sform": "HAC_DL",
+                "pprice": null,
+                "dprice": 980,
+                "sdate": "2017.3.3",
+                "sodate": "2017B03A03",
+                "ssitu": "onsale",
+                "maker": "インティ・クリエイツ",
+                "iurl": "97f462297b9b203026d959527d6042c97f64702da915100126d5b037d165504f",
+                "genre": [
+                    "アクション",
+                    "アドベンチャー",
+                    "シューティング"
+                ],
+                "cero": [
+                    "1"
+                ],
+                "amiibo": "0",
+                "yomi": null,
+                "sicon": null,
+                "n3ds": [
+                    "0"
+                ],
+                "sprice": null,
+                "ssdate": null,
+                "sedate": null,
+                "cnsuid": [
+                    "70050000000321",
+                    "70050000000381",
+                    "70050000000561",
+                    "70050000000562"
+                ],
+                "cont": [
+                    "SWITCH_PRO_CONTROLLER"
+                ],
+                "pmode": [
+                    "TV_MODE",
+                    "TABLETOP_MODE",
+                    "HANDHELD_MODE"
+                ],
+                "player": [
+                    "1~2"
+                ],
+                "lang": [
+                    "ja",
+                    "en_US"
+                ],
+                "price": 980,
+                "tr": "1",
+                "series": null,
+                "sale_flg": "0",
+                "current_price": 980,
+                "nplayer": null,
+                "lplayer": null,
+                "apps": [
+                    "0"
+                ],
+                "nso": [
+                    "0"
+                ],
+                "drate": [
+                    "0"
+                ],
+                "dsdate": "2017-03-03 00:00:00",
+                "memo": null,
+                "sform_n": "ダウンロードソフト",
+                "trisdate": "2017-05-04 00:00:00",
+                "tristat": "1",
+                "sslurl": [
+                    "64042a8c4a0a6d27a4c1b08e74b3d8fad215ebbf9afc4a0a090d816e7978a49c",
+                    "705714f0ddf75f010eea897335c70cec3d3cb9793062b91055763aae67aae58d",
+                    "b845045170de98dcebcb68f3bd864a02619de51d822a678f8dd370de55c64cf9",
+                    "92f5bb723eb2a997bb11c89ecce0f395811472d48af3169fb978eafea5127732",
+                    "6981a920a784b411cd34abbefbc82b980d048add68e028c11ac76481cc23473b",
+                    "53b258c53141acd491b2b14df856b37d37c36db57ff0fde458cafc09497a9965"
+                ],
+                "mvtype": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "2",
+                    "2",
+                    "2",
+                    "2"
+                ],
+                "mvname": [
+                    "ブラスターマスター ゼロ 紹介動画①",
+                    "ブラスターマスター ゼロ Ver.1.2 紹介映像",
+                    "ブラスターマスター ゼロ Ver.1.3 紹介映像",
+                    "ブラスターマスター ゼロ Ver.1.4 紹介映像",
+                    "ブラスターマスター ゼロ Ver.1.5 紹介映像",
+                    "ブラスターマスター ゼロ 紹介映像①",
+                    "ブラスターマスター ゼロ Ver.1.2 紹介映像",
+                    "ブラスターマスター ゼロ Ver.1.3 紹介映像",
+                    "ブラスターマスター ゼロ Ver.1.4 紹介映像",
+                    "ブラスターマスター ゼロ Ver.1.5 紹介映像"
+                ],
+                "mvurl": [
+                    "/m/22a4d46651ed880e612d2a13b0649fdca5b39d5753cc3a07bc91147e0cfcd95d.mp4",
+                    "/m/2cc99d7ed240d23232939d3e374b6fdfd8a35df19f1e7db0306fdc5ccd794592.mp4",
+                    "/m/95ab09947dce03bfa6f63f245f7e18f659b2f7e03edde1e6c2194d3f0f7ce488.mp4",
+                    "/m/be198390df9c65f0bffe8c4bb7c143d0244f6ed6f6ac93d4f0f550001afb196e.mp4",
+                    "/m/181153fc21168f4d718b20ede2b6be93c3df7a08542a74729a8a4f9c9b745a1b.mp4",
+                    "https://www.youtube.com/watch?v=qWRQUGzc8qg",
+                    "https://www.youtube.com/watch?v=ReA1AGgtqXE",
+                    "https://www.youtube.com/watch?v=X7JOcZ_N588",
+                    "https://www.youtube.com/watch?v=UoommwbqTzE",
+                    "https://www.youtube.com/watch?v=j-jLH5kPBMk"
+                ],
+                "mvsdates": [
+                    "2017-02-24 10:00:00",
+                    "2017-05-04 00:00:00",
+                    "2017-07-06 00:00:00",
+                    "2017-10-05 00:00:00",
+                    "2017-11-23 00:00:00",
+                    "2017-03-01 10:00:00",
+                    "2017-05-04 00:00:00",
+                    "2017-07-06 00:00:00",
+                    "2017-10-05 00:00:00",
+                    "2017-11-23 00:00:00"
+                ],
+                "mvedates": null,
+                "siurl": null,
+                "dcolors": null,
+                "sctg": "dl_soft",
+                "score": 48.772026
+            },
+            {
+                "id": "70010000000062",
+                "title": "アケアカNEOGEO わくわく7",
+                "text": "「わくわく7」は1996年にサンソフトから発売された格闘ゲームです。\n7つ集めれば何でも願いがかなうという“わくわくボール”の1つを手にしたキャラクターたちを操作して、残りのボールを集めるために闘います。\nわくわくゲージにパワーを溜めて、キャラ毎の個性豊かな技でガンガン攻めまくりましょう！\n\n「アケアカNEOGEO」シリーズは、NEOGEOの名作を忠実に再現することをコンセプトに開発をしています。\nゲームの難易度などのさまざまなゲーム設定を変更したり、当時のブラウン管テレビの雰囲気を再現することもできます。\nまたオンラインランキングで世界中のプレイヤーとスコアを競ったりすることもできます。",
+                "url": null,
+                "titlek": "あけあかねおじお わくわく7せぶん",
+                "nsuid": "70010000000062",
+                "pdate": "2017-03-02 20:00:00",
+                "icode": "AB2TA",
+                "hard": "1_HAC",
+                "sform": "HAC_DL",
+                "pprice": null,
+                "dprice": 838,
+                "sdate": "2017.3.3",
+                "sodate": "2017B03A03",
+                "ssitu": "onsale",
+                "maker": "ハムスター",
+                "iurl": "eae030e3aad16d46b4d512a7de502ffa2ffce7fcd17004c82d9f01e1efbc3f38",
+                "genre": [
+                    "アーケード",
+                    "格闘"
+                ],
+                "cero": [
+                    "1"
+                ],
+                "amiibo": "0",
+                "yomi": null,
+                "sicon": null,
+                "n3ds": [
+                    "0"
+                ],
+                "sprice": null,
+                "ssdate": null,
+                "sedate": null,
+                "cnsuid": null,
+                "cont": [
+                    "SWITCH_PRO_CONTROLLER"
+                ],
+                "pmode": [
+                    "TV_MODE",
+                    "TABLETOP_MODE",
+                    "HANDHELD_MODE"
+                ],
+                "player": [
+                    "1~2"
+                ],
+                "lang": [
+                    "ja",
+                    "en",
+                    "fr",
+                    "de",
+                    "it",
+                    "es",
+                    "es_US",
+                    "fr_US",
+                    "en_US"
+                ],
+                "price": 838,
+                "tr": "0",
+                "series": null,
+                "sale_flg": "0",
+                "current_price": 838,
+                "nplayer": null,
+                "lplayer": null,
+                "apps": [
+                    "0"
+                ],
+                "nso": [
+                    "0"
+                ],
+                "drate": [
+                    "0"
+                ],
+                "dsdate": "2017-03-03 00:00:00",
+                "memo": null,
+                "sform_n": "ダウンロードソフト",
+                "trisdate": null,
+                "tristat": null,
+                "sslurl": [
+                    "8f914a856e096a4e16bf48486e82ab18a5960969d11dd374738cafa4babdaa36",
+                    "a474e85d3bc10301884511d625d70f87efdd1a0d1da9674e9002ad1bc796731e",
+                    "92ae051d3fcb9e1f4e96a99416ceca67ecb37e39f19337f6107bb67a47917737",
+                    "cab33e88954e337606848bf5bb5a24ac946ddf845b7c660161ea87dca2faf903",
+                    "91afbea7e1ac372b0c0fff5cc44ec4d80816defcc089c2dec2bff1f682518b3e",
+                    "5f151f0c9f48b271f174bc89e10996287d483b0b08204b388d23c01107d82943"
+                ],
+                "mvtype": null,
+                "mvname": null,
+                "mvurl": null,
+                "mvsdates": null,
+                "mvedates": null,
+                "siurl": null,
+                "dcolors": null,
+                "sctg": "dl_soft",
+                "score": 48.772026
+            },
+            {
+                "id": "70010000000063",
+                "title": "アケアカNEOGEO ショックトルーパーズ",
+                "text": "『ショックトルーパーズ』は1997年にSNKから発売されたアクションゲームです。\n悪の組織ブラッディスコーピオンによってさらわれてしまったジョージ博士とその孫娘の救出作戦に参加します。\n進行ルート選択をすることでゲーム展開が変わるフィーチャーなど、何度も繰り返して遊べる内容に仕上がっています。\n\n『アケアカNEOGEO』シリーズは、NEOGEOの名作を忠実に再現することをコンセプトに開発をしています。\nゲームの難易度などのさまざまなゲーム設定を変更したり、当時のブラウン管テレビの雰囲気を再現することもできます。\nまたオンラインランキングで世界中のプレイヤーとスコアを競ったりすることもできます。",
+                "url": null,
+                "titlek": "あけあかねおじお しょっくとるーぱーず",
+                "nsuid": "70010000000063",
+                "pdate": "2017-03-02 20:00:00",
+                "icode": "AB2UA",
+                "hard": "1_HAC",
+                "sform": "HAC_DL",
+                "pprice": null,
+                "dprice": 838,
+                "sdate": "2017.3.3",
+                "sodate": "2017B03A03",
+                "ssitu": "onsale",
+                "maker": "ハムスター",
+                "iurl": "6aed9e2edba517377613557022406863d9e3709183a593cf996588805a15f2e1",
+                "genre": [
+                    "アーケード",
+                    "アクション"
+                ],
+                "cero": [
+                    "2"
+                ],
+                "amiibo": "0",
+                "yomi": null,
+                "sicon": null,
+                "n3ds": [
+                    "0"
+                ],
+                "sprice": null,
+                "ssdate": null,
+                "sedate": null,
+                "cnsuid": null,
+                "cont": [
+                    "SWITCH_PRO_CONTROLLER"
+                ],
+                "pmode": [
+                    "TV_MODE",
+                    "TABLETOP_MODE",
+                    "HANDHELD_MODE"
+                ],
+                "player": [
+                    "1~2"
+                ],
+                "lang": [
+                    "ja",
+                    "en",
+                    "fr",
+                    "de",
+                    "it",
+                    "es",
+                    "es_US",
+                    "fr_US",
+                    "en_US"
+                ],
+                "price": 838,
+                "tr": "0",
+                "series": null,
+                "sale_flg": "0",
+                "current_price": 838,
+                "nplayer": null,
+                "lplayer": null,
+                "apps": [
+                    "0"
+                ],
+                "nso": [
+                    "0"
+                ],
+                "drate": [
+                    "0"
+                ],
+                "dsdate": "2017-03-03 00:00:00",
+                "memo": null,
+                "sform_n": "ダウンロードソフト",
+                "trisdate": null,
+                "tristat": null,
+                "sslurl": [
+                    "83a00265a89bb0133dcabf7c1e9cef50ff05c8e54493fc02f16f60d6bcd4eef7",
+                    "87949d52478f55554f065d5bad2bf8fbfc3881f08606fabbae1fe18136cfdc33",
+                    "f68eba22c16aabbf7392925791284158a9ac6b59131560e25b54a5656257834c",
+                    "acee44192dc4cab5d0041b2d232b712a9d206ed668e2e15bfa606c2ec0592da2",
+                    "3573e6058750b6f9f9f244755d4cf59478719f201304914cf51a066c9fb9a14b",
+                    "021fe13425795f8cfca454233fa86afe79a962a1bf76f40b7c7681f026742179"
+                ],
+                "mvtype": null,
+                "mvname": null,
+                "mvurl": null,
+                "mvsdates": null,
+                "mvedates": null,
+                "siurl": null,
+                "dcolors": null,
+                "sctg": "dl_soft",
+                "score": 48.772026
+            },
+            {
+                "id": "70010000000064",
+                "title": "アケアカNEOGEO ワールドヒーローズパーフェクト",
+                "text": "『ワールドヒーローズパーフェクト』は1995年にSNKから発売された格闘ゲームです。\n歴史上の人物をモチーフとしたキャラクター16名がエントリーをして、世界最強の座を賭けて戦います。ヒーローゲージ、エクストラアタック、ガードはじき攻撃といった新要素を盛り込み、よりエキサイティングな駆け引きが楽しめるようになっています。\n\n『アケアカNEOGEO』シリーズは、NEOGEOの名作を忠実に再現することをコンセプトに開発をしています。\nゲームの難易度などのさまざまなゲーム設定を変更したり、当時のブラウン管テレビの雰囲気を再現することもできます。\nまたオンラインランキングで世界中のプレイヤーとスコアを競ったりすることもできます。",
+                "url": null,
+                "titlek": "あけあかねおじお わーるどひーろーずぱーふぇくと",
+                "nsuid": "70010000000064",
+                "pdate": "2017-03-02 20:00:00",
+                "icode": "AB2VA",
+                "hard": "1_HAC",
+                "sform": "HAC_DL",
+                "pprice": null,
+                "dprice": 838,
+                "sdate": "2017.3.3",
+                "sodate": "2017B03A03",
+                "ssitu": "onsale",
+                "maker": "ハムスター",
+                "iurl": "ca230dbbfc122705bbe2cdc9769f4453c88b71b9e078761a030679a72a47de16",
+                "genre": [
+                    "アーケード",
+                    "格闘"
+                ],
+                "cero": [
+                    "2"
+                ],
+                "amiibo": "0",
+                "yomi": null,
+                "sicon": null,
+                "n3ds": [
+                    "0"
+                ],
+                "sprice": null,
+                "ssdate": null,
+                "sedate": null,
+                "cnsuid": null,
+                "cont": [
+                    "SWITCH_PRO_CONTROLLER"
+                ],
+                "pmode": [
+                    "TV_MODE",
+                    "TABLETOP_MODE",
+                    "HANDHELD_MODE"
+                ],
+                "player": [
+                    "1~2"
+                ],
+                "lang": [
+                    "ja",
+                    "en",
+                    "fr",
+                    "de",
+                    "it",
+                    "es",
+                    "es_US",
+                    "fr_US",
+                    "en_US"
+                ],
+                "price": 838,
+                "tr": "0",
+                "series": null,
+                "sale_flg": "0",
+                "current_price": 838,
+                "nplayer": null,
+                "lplayer": null,
+                "apps": [
+                    "0"
+                ],
+                "nso": [
+                    "0"
+                ],
+                "drate": [
+                    "0"
+                ],
+                "dsdate": "2017-03-03 00:00:00",
+                "memo": null,
+                "sform_n": "ダウンロードソフト",
+                "trisdate": null,
+                "tristat": null,
+                "sslurl": [
+                    "4823a06de9766138f70922f50a0f33d5e721dba8415dc599d2cdc20ed99e0ce0",
+                    "8e7a37bcaedd1e59cd5825a46088b3e8688977ce80ca7d71c88bb99f5eeeadb3",
+                    "f91502dff048b2cc63f17ed9c3abf8ff22fec8fc990a8ad3534579bb487593a1",
+                    "7ea0ef5c15216b90a7240409b975527d0216327f1d6c1a340163856c5555110e",
+                    "e5cab0a9213ffe9e7f299ee1bc08fa75b2e0fdd45c37f64b7e2f423d20a2b988",
+                    "70e586ec68bee5898ab6db9ca36be996b56079cd32c9fc183b285aec599ad1ca"
+                ],
+                "mvtype": null,
+                "mvname": null,
+                "mvurl": null,
+                "mvsdates": null,
+                "mvedates": null,
+                "siurl": null,
+                "dcolors": null,
+                "sctg": "dl_soft",
+                "score": 48.772026
+            },
+            {
+                "id": "70010000000117",
+                "title": "そるだむ 開花宣言",
+                "text": "4つ1組になって落ちてくるカラフルな木の実「ソルダム」の色を挟んで揃え、ラインを消していくリバーシ型アクションパズルゲームです。\nプラミー（モンスター）が開花（進化）する育成要素を取り入れた1人用の「そるだむ」モードのほか、練習用の「らくだむ」モード、お題にチャレンジする「つめだむ」モード、2人で対戦ができる「たいけつ」モードの全4モードを収録。",
+                "url": null,
+                "titlek": "そるだむ かいかせんげん",
+                "nsuid": "70010000000117",
+                "pdate": "2017-03-02 20:00:00",
+                "icode": "AB5JA",
+                "hard": "1_HAC",
+                "sform": "HAC_DL",
+                "pprice": null,
+                "dprice": 1528,
+                "sdate": "2017.3.3",
+                "sodate": "2017B03A03",
+                "ssitu": "onsale",
+                "maker": "シティコネクション",
+                "iurl": "253744beef43beba4b56e90976cdb4b9ac379fee56852ffcd9172816f45939f2",
+                "genre": [
+                    "アーケード",
+                    "アクション",
+                    "パズル"
+                ],
+                "cero": [
+                    "1"
+                ],
+                "amiibo": "0",
+                "yomi": null,
+                "sicon": null,
+                "n3ds": [
+                    "0"
+                ],
+                "sprice": 975,
+                "ssdate": "2019-09-12 00:00:00",
+                "sedate": "2019-09-23 23:59:59",
+                "cnsuid": null,
+                "cont": [
+                    "SWITCH_PRO_CONTROLLER"
+                ],
+                "pmode": [
+                    "TV_MODE",
+                    "TABLETOP_MODE",
+                    "HANDHELD_MODE"
+                ],
+                "player": [
+                    "1~2"
+                ],
+                "lang": [
+                    "ja"
+                ],
+                "price": 1528,
+                "tr": "0",
+                "series": null,
+                "sale_flg": "0",
+                "current_price": 1528,
+                "nplayer": null,
+                "lplayer": null,
+                "apps": [
+                    "0"
+                ],
+                "nso": [
+                    "0"
+                ],
+                "drate": [
+                    "36.19109947643979"
+                ],
+                "dsdate": "2017-03-03 00:00:00",
+                "memo": null,
+                "sform_n": "ダウンロードソフト",
+                "trisdate": null,
+                "tristat": null,
+                "sslurl": [
+                    "b580cc2075067900341769e6ad752187f880807d7e5e473511fb8568a7981cef",
+                    "77436f8ede1f228ec55c14b858fdc76194b903b80fb258facf88985e78805664",
+                    "75e84974cfeba33c61e181eeaaadfb73f30d3a061064bc549c2ce9e12aa56692",
+                    "6c5a878f2c463206b0d3704a330697d37371774d6c3d9282ad7176a24dddded9",
+                    "994bfb6152c0ca21df14dc251949dc5b0de3559d1df37aea5b9f0a6b49c063e7",
+                    "c6a5cf288ad5adffa5741782039b6845205091f0829af4a0da5fee54d21f526a"
+                ],
+                "mvtype": [
+                    "1",
+                    "2"
+                ],
+                "mvname": [
+                    "そるだむ 開花宣言 紹介動画",
+                    "Nintendo Switch『そるだむ 開花宣言』PV第一弾"
+                ],
+                "mvurl": [
+                    "/m/57ecbeeacda00a2abbf148f77c9df0fe091cfb2a1567941cd28954564a736120.mp4",
+                    "https://www.youtube.com/watch?v=tNhRtzn1VyU"
+                ],
+                "mvsdates": [
+                    "2017-03-02 20:00:00",
+                    "2017-03-02 20:00:00"
+                ],
+                "mvedates": null,
+                "siurl": null,
+                "dcolors": null,
+                "sctg": "dl_soft",
+                "score": 48.772026
+            },
+            {
+                "id": "70010000000122",
+                "title": "空飛ぶブンブンバーン",
+                "text": "『空飛ぶブンブンバーン』は、魔法少女がバイクに乗って星のかけらを集めるために奮闘する「マジカルバイクアクションゲーム」です。\n可愛らしい魔法少女たちが活躍するファンタジー感、レースゲームを思わせるスピード感、HD振動によるエンジンの振動・風圧・衝撃などのリアルな現実感が特徴です。\n\nこの世界にはさまざまな夜空が存在し、そこで星のかけらを集めることが魔法少女のお仕事です。\nあなたは魔法少女ルナとなって、マジカルバイクにまたがり、夜空を飛び回り、星のかけらを集めるのです！\n\n夜空にはマジカルゲートが浮いており、このゲートを開いて飛び込めば任務完了！\n集めた星のかけらをゲットできます。\n\nゲートを開くためには、夜空に浮いているキースターを必要な数集めなければいけません。\nより早くキースターを集めてゲートに入ることで、より多くの星のかけらをゲットすることができます。\n\nほかにも、よりテクニカルにバイクを操作することで、手に入る星のかけらが増えていきます。\nさまざまなアクションを繰り出し、よりスタイリッシュに星のかけらを集めるチャレンジをしてみましょう。\n\n集めた星のかけらを使うことで、新しいマジカルバイクを手にれることができるようになります。\n強力なマジカルバイクを手に入れられれば、一段と星のかけら集めが楽になります！\n\nより良いバイクを手に入れ、さらにたくさんの星のかけらを集め……。\nいつか一人前の魔法少女になれるように頑張りましょう！",
+                "url": null,
+                "titlek": "そらとぶぶんぶんばーん",
+                "nsuid": "70010000000122",
+                "pdate": "2017-03-02 20:00:00",
+                "icode": "ACFEA",
+                "hard": "1_HAC",
+                "sform": "HAC_DL",
+                "pprice": null,
+                "dprice": 1000,
+                "sdate": "2017.3.3",
+                "sodate": "2017B03A03",
+                "ssitu": "onsale",
+                "maker": "ポイソフト",
+                "iurl": "7a3b35f73aee134a289590d81f0bab53d35076f5183ff6cda41869c788a6aaef",
+                "genre": [
+                    "アクション",
+                    "レース"
+                ],
+                "cero": [
+                    "1"
+                ],
+                "amiibo": "0",
+                "yomi": null,
+                "sicon": null,
+                "n3ds": [
+                    "0"
+                ],
+                "sprice": null,
+                "ssdate": null,
+                "sedate": null,
+                "cnsuid": null,
+                "cont": null,
+                "pmode": [
+                    "TV_MODE",
+                    "TABLETOP_MODE",
+                    "HANDHELD_MODE"
+                ],
+                "player": [
+                    "1"
+                ],
+                "lang": [
+                    "ja",
+                    "en_US"
+                ],
+                "price": 1000,
+                "tr": "0",
+                "series": null,
+                "sale_flg": "0",
+                "current_price": 1000,
+                "nplayer": null,
+                "lplayer": null,
+                "apps": [
+                    "0"
+                ],
+                "nso": [
+                    "0"
+                ],
+                "drate": [
+                    "0"
+                ],
+                "dsdate": "2017-03-03 00:00:00",
+                "memo": null,
+                "sform_n": "ダウンロードソフト",
+                "trisdate": null,
+                "tristat": null,
+                "sslurl": [
+                    "e2e77f7f760c8035ed73e62bda5b81eee9c29adf20d2e8090b94756958975d26",
+                    "0b49696a8f65b1d3adb5ed9b844f58547d4cc95757bef1b30fee284abd969398",
+                    "913d3d289d3a63b1d047ec2e0f8ead2922c2bbbea6f164e3148d7afc1e247de2",
+                    "c0818037f5c793507f97a31c25468a00a75194908ed215282450d083084c34a7",
+                    "37fb050f5c65d948a37c251dfd59d4ca25c53bdd909f787142031f7a5194a3c9",
+                    "1c6f8cb5f1681d9059dcb646634782069911ba9591176545730edb0715e7b747"
+                ],
+                "mvtype": [
+                    "1",
+                    "2",
+                    "1",
+                    "2"
+                ],
+                "mvname": [
+                    "空飛ぶブンブンバーン -PV（30fps）",
+                    "空飛ぶブンブンバーン -PV",
+                    "About ”ブンブンバーン”",
+                    "About ”ブンブンバーン”"
+                ],
+                "mvurl": [
+                    "/m/8791de414fc8697f2b9c3489e8799e3ad636d37b12f12fbf6f3799e91d25f9a6.mp4",
+                    "https://www.youtube.com/watch?v=9HaUxwdVerc",
+                    "/m/07bedfdefc8697194fcc5c09ab99e96208fd7f8d004d3e89d88086980b64a0cc.mp4",
+                    "https://www.youtube.com/watch?v=WEZTmZ63szk"
+                ],
+                "mvsdates": [
+                    "2017-03-03 10:00:00",
+                    "2017-03-09 10:00:00",
+                    "2017-04-06 00:00:00",
+                    "2017-04-06 00:00:00"
+                ],
+                "mvedates": [
+                    "2017-04-05 23:59:59",
+                    "2017-04-05 23:59:59"
+                ],
+                "siurl": null,
+                "dcolors": null,
+                "sctg": "dl_soft",
+                "score": 48.772026
+            }
+        ],
+        "facet_fields": {
+            "sshow": [
+                "1",
+                1639
+            ],
+            "hard": [
+                "1_HAC",
+                1639,
+                "2_CTR",
+                1425,
+                "4_WUP",
+                708
+            ],
+            "sform": [
+                "HAC_DL",
+                1309,
+                "HAC_DOWNLOADABLE",
+                329,
+                "DL_DLC",
+                1
+            ],
+            "ssitu": [
+                "onsale",
+                1621,
+                "not_found",
+                28,
+                "preorder",
+                18,
+                "sales_termination",
+                15,
+                "unreleased",
+                5
+            ],
+            "maker": [
+                "ハムスター",
+                177,
+                "フライハイワークス",
+                53,
+                "レイニーフロッグ",
+                50,
+                "バンダイナムコエンターテインメント",
+                42,
+                "アークシステムワークス",
+                38,
+                "任天堂",
+                35,
+                "アイディアファクトリー",
+                30,
+                "スクウェア・エニックス",
+                30,
+                "スターサイン",
+                30,
+                "eastasiasoft",
+                29,
+                "コーエーテクモゲームス",
+                29,
+                "セガゲームス",
+                28,
+                "ケムコ",
+                24,
+                "カプコン",
+                23,
+                "D3パブリッシャー",
+                22,
+                "日本一ソフトウェア",
+                21,
+                "カイロソフト",
+                18,
+                "シティコネクション",
+                18,
+                "シルバースタージャパン",
+                17,
+                "ワーカービー",
+                17,
+                "CIRCLE Ent.",
+                16,
+                "Devolver Digital",
+                16,
+                "PLAYISM",
+                16,
+                "賈船",
+                16,
+                "メディアファイブ",
+                15,
+                "Team17",
+                14,
+                "ユービーアイソフト",
+                14,
+                "コーラス・ワールドワイド",
+                13,
+                "メディアスケープ",
+                13,
+                "オーイズミ・アミュージオ",
+                12,
+                "UNTIES",
+                11,
+                "テヨンジャパン",
+                11,
+                "SAT-BOX",
+                10,
+                "テイクツー・インタラクティブ・ジャパン",
+                10,
+                "マーベラス",
+                10,
+                "３ｇｏｏ",
+                10,
+                "MAGES.",
+                9,
+                "インティ・クリエイツ",
+                9,
+                "ジー・モード",
+                9,
+                "ピッキー",
+                9,
+                "プロトタイプ",
+                9,
+                "メビウス",
+                9,
+                "Atypical Games",
+                8,
+                "KONAMI",
+                8,
+                "Merge Games",
+                8,
+                "エンターグラム",
+                8,
+                "ドラス",
+                8,
+                "ワーナー",
+                8,
+                "H2 INTERACTIVE",
+                7,
+                "Rising Star Games",
+                7,
+                "スパイク・チュンソフト",
+                7,
+                "フリュー",
+                7,
+                "Digital Bards",
+                6,
+                "Forever Entertainment",
+                6,
+                "ORENDA",
+                6,
+                "Ratalaika Games",
+                6,
+                "Raw Fury",
+                6,
+                "Shinyuden",
+                6,
+                "ポケモン",
+                6,
+                "日本コロムビア",
+                6,
+                "角川ゲームス",
+                6,
+                "Annapurna Interactive",
+                5,
+                "DANGEN Entertainment",
+                5,
+                "Humble Bundle",
+                5,
+                "Plug In Digital",
+                5,
+                "エレクトロニック・アーツ",
+                5,
+                "シーエフケー",
+                5,
+                "ジュピター",
+                5,
+                "ベセスダ・ソフトワークス",
+                5,
+                "レジスタ",
+                5,
+                "レベルファイブ",
+                5,
+                "Abylight",
+                4,
+                "ChubbyPixel",
+                4,
+                "FDG Entertainment",
+                4,
+                "Higgs Games",
+                4,
+                "PLiCy",
+                4,
+                "The Quantum Astrophysicists Guild",
+                4,
+                "indienova",
+                4,
+                "イントラゲームズ",
+                4,
+                "カエルエックス",
+                4,
+                "サクセス",
+                4,
+                "タイトー",
+                4,
+                "ボルテージ",
+                4,
+                "工画堂スタジオ",
+                4,
+                "Another Indie Studio",
+                3,
+                "Beep",
+                3,
+                "Collavier",
+                3,
+                "DICO",
+                3,
+                "DOUBLE DRIVE GAMES",
+                3,
+                "DotEmu",
+                3,
+                "Fellow Traveller",
+                3,
+                "Headup Games",
+                3,
+                "Hi-Rez Studios",
+                3,
+                "MUTAN",
+                3,
+                "PIACCI",
+                3,
+                "X.D. Network",
+                3,
+                "アンバランス",
+                3,
+                "オニオンゲームス",
+                3,
+                "クラウズ プレイカンパニー",
+                3,
+                "クロスファンクション",
+                3
+            ],
+            "vc": [
+                "0",
+                1639
+            ],
+            "sche": [
+                "1",
+                1638,
+                "0",
+                1
+            ],
+            "plan": [
+                "0",
+                1639
+            ],
+            "osale": [
+                "0",
+                1821,
+                "1",
+                1639
+            ],
+            "search": [
+                "1",
+                1639
+            ],
+            "tr": [
+                "0",
+                1443,
+                "1",
+                196
+            ],
+            "series": [],
+            "sale_flg": [
+                "0",
+                1544,
+                "1",
+                95
+            ],
+            "aplan": [
+                "0",
+                1638
+            ],
+            "asale": [
+                "0",
+                1638
+            ],
+            "top": [
+                "1",
+                1637,
+                "0",
+                2
+            ],
+            "sctg": [
+                "dl_soft",
+                1638,
+                "bundle",
+                1
+            ]
+        },
+        "facet_field_names": {
+            "sshow": "検索結果表示非表示",
+            "hard": "ハード（第一カテゴリ）",
+            "sform": "第二カテゴリ",
+            "ssitu": "販売状況（未発売／予約販売／通常販売／販売停止）",
+            "maker": "メーカー名",
+            "vc": "VCソフト判定",
+            "sche": "発売スケジュール",
+            "plan": "今後発売予定ソフト",
+            "osale": "発売中のソフト",
+            "search": "検索",
+            "tr": "体験版有無",
+            "series": "シリーズ",
+            "sale_flg": "セールフラグ",
+            "aplan": "amiibo - 今後対応予定のソフト",
+            "asale": "amiibo - 今後発売予定のamiibo",
+            "top": "トップページ",
+            "sctg": "サブカテゴリ―"
+        },
+        "suggestions": null,
+        "ranges": {
+            "pdate": [
+                "1900-01-01 00:00:00",
+                "2019-11-08 11:00:00"
+            ],
+            "dprice": [
+                "0.0",
+                "14751.0"
+            ],
+            "update": [
+                "2018-08-30",
+                "2022-06-08"
+            ],
+            "current_price": [
+                "0.0",
+                "14751.0"
+            ],
+            "dsdate": [
+                "2011-02-26 00:00:00",
+                "9999-12-31 23:59:00"
+            ],
+            "edate": [
+                "2018-11-13 23:59:00",
+                "9999-12-31 23:59:59"
+            ],
+            "trisdate": [
+                "2011-05-26 00:00:00",
+                "2019-11-08 00:00:00"
+            ],
+            "mvsdate": [
+                "2017-02-20 10:00:00",
+                "2019-11-21 00:00:00"
+            ],
+            "mvedate": [
+                "2017-04-05",
+                "2069-01-23"
+            ]
+        },
+        "relation_words": null,
+        "relation_contents": [],
+        "suggest_items": null
+    },
+    "status": 0
+}
