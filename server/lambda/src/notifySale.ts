@@ -44,8 +44,10 @@ const dispatch = async () => {
       const messages = []
       Object.keys(saleInfoByUser).forEach(token => {
         const info = saleInfoByUser[token]
-
         const gameNum = info.length
+        if (!gameNum) {
+          return
+        }
         const body = info.map(data => data.title).slice(1).join('、') 
           + (gameNum > 2 ? '、他' : '')
         messages.push({

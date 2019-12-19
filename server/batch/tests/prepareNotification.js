@@ -8,7 +8,7 @@ const expo = new Expo();
 
 const dispatch = async () => {
 
-  const games = await fetchCertainRangeOfGameSales(-7, -1)
+  const games = await fetchCertainRangeOfGameSales(-1, -0)
   const promisesForGames = games.map(async game => {
     // console.log(game.title)
     const users = await fetchGameUsers(game.id)
@@ -53,7 +53,7 @@ const dispatch = async () => {
         const info = saleInfoByUser[token]
 
         const gameNum = info.length
-        const body = info.slice(1).map(data => data.title).join('、') 
+        const body = info.slice(1).map(data => data.title).join('、')
           + (gameNum > 2 ? '、他' : '')
         messages.push({
           to: token,
